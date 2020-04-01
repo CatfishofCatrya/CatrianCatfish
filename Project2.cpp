@@ -3,7 +3,8 @@
 #include <algorithm>
 #include <string>
 #include "bio.h"
-//Lisa Lipin
+//Lisa Lipin 
+//yay
 using std::string; using std::vector; using std::reverse; using std::any_of;
 
 bool IsValidDNASequence(const string & input) { //this checks if each character in the sequence is valid and returns true or false accordingly
